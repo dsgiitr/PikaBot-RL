@@ -1,0 +1,4888 @@
+[
+    [
+        0,
+        {
+            "Sinistcha": [
+                {},
+                100,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        1,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        2,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {},
+                87,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        3,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {},
+                87,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {},
+                100,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        4,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {},
+                87,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false
+                },
+                100,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        5,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {},
+                87,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false
+                },
+                100,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        6,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {},
+                87,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                100,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        7,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {},
+                87,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                100,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {},
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        8,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {},
+                87,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {},
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        9,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {},
+                87,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {},
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        10,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {},
+                87,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        11,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {},
+                87,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        12,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {},
+                87,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        13,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        14,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        15,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {},
+                100,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        16,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {},
+                100,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        17,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {},
+                100,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        18,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {},
+                100,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        19,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true
+                },
+                100,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        20,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true
+                },
+                100,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        21,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                15,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        22,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                77,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        23,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                77,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        24,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                77,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {},
+                100,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        25,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                77,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {},
+                100,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        26,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                77,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {},
+                100,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        27,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                77,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {},
+                100,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        28,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                77,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {},
+                100,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        29,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                77,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {},
+                100,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        30,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                77,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {},
+                100,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        31,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                42,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {},
+                100,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        32,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                42,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {},
+                82,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        33,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                42,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        34,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                100,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                42,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        35,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                42,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        36,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                42,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        37,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                42,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        38,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        39,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": true,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        40,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        41,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                25,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        42,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                19,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        43,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true
+                },
+                69,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        44,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                39,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        45,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        46,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        47,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        48,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        49,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        50,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        51,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        52,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true
+                },
+                72,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        53,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                62,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        54,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                44,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        55,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                95,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                44,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        56,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": true
+                },
+                71,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                44,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        57,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": false
+                },
+                79,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                44,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        58,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": false,
+                    "calmmind": false
+                },
+                41,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {
+                    "spa": 1,
+                    "spd": 1
+                }
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                44,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        59,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": false,
+                    "calmmind": false
+                },
+                41,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {
+                    "spa": 1,
+                    "spd": 1
+                }
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                54,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                38,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        60,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": false,
+                    "calmmind": false
+                },
+                41,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": true,
+                    "icebeam": true,
+                    "roost": false
+                },
+                60,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                38,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        61,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": false,
+                    "calmmind": false
+                },
+                41,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": false,
+                    "icebeam": true,
+                    "roost": false
+                },
+                66,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                38,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        62,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": false,
+                    "calmmind": false
+                },
+                41,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": false,
+                    "icebeam": true,
+                    "roost": false
+                },
+                66,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                0,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        63,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": false,
+                    "calmmind": false
+                },
+                0,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": false,
+                    "icebeam": true,
+                    "roost": false
+                },
+                66,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                0,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        64,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": false,
+                    "calmmind": false
+                },
+                0,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": false,
+                    "icebeam": false,
+                    "roost": false
+                },
+                72,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                0,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        65,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": false,
+                    "calmmind": false
+                },
+                0,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": false,
+                    "icebeam": false,
+                    "roost": false
+                },
+                79,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                0,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        66,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": false,
+                    "calmmind": false
+                },
+                0,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": false,
+                    "icebeam": false,
+                    "roost": false,
+                    "yawn": false
+                },
+                85,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                0,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        67,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": false,
+                    "calmmind": false
+                },
+                0,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": false,
+                    "icebeam": false,
+                    "roost": false,
+                    "yawn": false
+                },
+                100,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                0,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        68,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                88,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": false,
+                    "calmmind": false
+                },
+                0,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": false,
+                    "icebeam": false,
+                    "roost": false,
+                    "yawn": false
+                },
+                55,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                0,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        69,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": false
+                },
+                60,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": false,
+                    "calmmind": false
+                },
+                0,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": false,
+                    "icebeam": false,
+                    "roost": false,
+                    "yawn": false
+                },
+                55,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                0,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        70,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": true
+                },
+                71,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": false,
+                    "calmmind": false
+                },
+                0,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": false,
+                    "icebeam": false,
+                    "roost": false,
+                    "yawn": false
+                },
+                55,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                0,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ],
+    [
+        71,
+        {
+            "Sinistcha": [
+                {
+                    "matchagotcha": true,
+                    "shadowball": true
+                },
+                25,
+                [
+                    "sinistchamasterpiece",
+                    "sinistcha"
+                ],
+                {}
+            ],
+            "Misdreavus": [
+                {
+                    "drainingkiss": false,
+                    "calmmind": false
+                },
+                0,
+                [
+                    "misdreavus",
+                    "misdreavus"
+                ],
+                {}
+            ],
+            "Volbeat": [
+                {
+                    "roost": false,
+                    "encore": false,
+                    "lunge": true,
+                    "thunderwave": false
+                },
+                0,
+                [
+                    "volbeat",
+                    "volbeat"
+                ],
+                {}
+            ],
+            "Gliscor": [
+                {
+                    "earthquake": false,
+                    "toxicspikes": false
+                },
+                100,
+                [
+                    "gliscor",
+                    "gliscor"
+                ],
+                {}
+            ],
+            "Empoleon": [
+                {
+                    "surf": false,
+                    "icebeam": false,
+                    "roost": false,
+                    "yawn": false
+                },
+                55,
+                [
+                    "empoleon",
+                    "empoleon"
+                ],
+                {}
+            ],
+            "Skuntank": [
+                {
+                    "suckerpunch": true,
+                    "gunkshot": false
+                },
+                0,
+                [
+                    "skuntank",
+                    "skuntank"
+                ],
+                {}
+            ]
+        }
+    ]
+]
