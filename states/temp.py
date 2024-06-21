@@ -1,20 +1,22 @@
 import json
 import csv
+from names import name_operate
 final={}
 
 with open('poke_battle.json','r') as f:
     temp=json.load(f)
-    leveldict={mon:temp[mon]['level'] for mon in temp}
+    leveldict={name_operate.operation(mon):temp[mon]['level'] for mon in temp}
+
 # print(leveldict)
 with open("Pokemon.csv",'r') as fh:
     reader=csv.reader(fh)
     for f in reader:
-        if f[0]!="ID" and f[1] in leveldict:
-            hp=int(((2*int(f[6])+52)*leveldict[f[1]])/100)+leveldict[f[1]]+10
+        if f[0]!="ID" and name_operate.operation(f[1]) in leveldict:
+            hp=int(((2*int(f[6])+52)*leveldict[name_operate.operation(f[1])])/100)+leveldict[name_operate.operation(f[1])]+10
             f[1]=f[1].lower()
             name=''
             for c in f[1]:
-                if 'a'<=c<='z':
+                if 'a'<=c<='z' or '0'<=c<='9':
                     name+=c
             final[name]=[hp,int(f[11])]
 

@@ -32,7 +32,7 @@ class name_operate:
         inp=inp.lower()
         out=''
         for i in inp:
-            if 'a'<=i<='z':
+            if 'a'<=i<='z' or '0'<=i<='9':
                 out+=i
         return out
     def base_stat_findName(name1,name2,base_stats):
