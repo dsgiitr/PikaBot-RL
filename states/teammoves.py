@@ -27,21 +27,21 @@ class RandomPlayerMine(Player):
         self.pokemon_data[0].extend(battle.available_switches)
         OppName=name_operate.getName(self.mons, battle.opponent_active_pokemon)
         if OppName not in self.pokemon_data[1]:
-            self.pokemon_data[1][OppName] = [{}, battle.opponent_active_pokemon.current_hp_fraction*100, name_operate.species(battle.opponent_active_pokemon),battle.opponent_active_pokemon.boosts]
+            self.pokemon_data[1][OppName] = [{}, battle.opponent_active_pokemon.current_hp_fraction*100, name_operate.species(battle.opponent_active_pokemon)]
             # print(self.pokemon_data[1][OppName])
         move_used=""
         if battle.turn > 1:
             for event in battle.observations[battle.turn-1].events:
-                if(event[1]=="-boost") and (event[2].split(':')[0] == "p2a"):
-                    mon=name_operate.convertName(event[2].split())
-                    mons=name_operate.searchMon(mon,self.pokemon_data)
-                    if(mons=="None"):
-                            continue
-                    if event[3] not in self.pokemon_data[1][mons][3]:
-                        self.pokemon_data[1][mons][3][event[3]]=int(event[4])
-                    else:
-                        self.pokemon_data[1][mons][3][event[3]]+=int(event[4])
-                elif (event[1] == "move") and (event[2].split(':')[0] == "p2a"):  # Check if it's a move by the opponent
+                # if(event[1]=="-boost") and (event[2].split(':')[0] == "p2a"):
+                #     mon=name_operate.convertName(event[2].split())
+                #     mons=name_operate.searchMon(mon,self.pokemon_data)
+                #     if(mons=="None"):
+                #             continue
+                #     if event[3] not in self.pokemon_data[1][mons][3]:
+                #         self.pokemon_data[1][mons][3][event[3]]=int(event[4])
+                #     else:
+                #         self.pokemon_data[1][mons][3][event[3]]+=int(event[4])
+                if (event[1] == "move") and (event[2].split(':')[0] == "p2a"):  # Check if it's a move by the opponent
                     move_used = event[3]  # Extract the move used
                     mon=name_operate.convertName(event[2].split())
                     attacker=name_operate.searchMon(mon,self.pokemon_data)

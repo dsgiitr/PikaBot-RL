@@ -90,7 +90,7 @@ class DamageCalculator:
             print(f"Error: {response.status_code}")
             return 0
     
-    def DamageCalc(self,monA,defender,mon,move,allmons):
+    def DamageCalc(self,monA,defender,boosts,move,allmons):
         param={}
         if(str(move.category)!="STATUS (move category) object"):
             attacker=name_operate.getName(allmons,monA)
@@ -105,9 +105,9 @@ class DamageCalculator:
                     d1[i]=monA.boosts[i]
             param["boosts1"]=json.dumps(d1)
             d2={}
-            for i in mon[3]:
-                if(i!="accuracy" and i!="evasion" and mon[3][i]!=0):
-                    d2[i]=mon[3][i]
+            for i in boosts:
+                if(i!="accuracy" and i!="evasion" and boosts[i]!=0):
+                    d2[i]=boosts[i]
             param["boosts2"]=json.dumps(d2)
             if monA.item!=None:
                 param['item1']=self.itemname[monA.item]
@@ -146,8 +146,7 @@ class DamageCalculator:
         if(dmg<=0):
             return dmg
         return min(5,int((curhp+dmg-1)/dmg))
-    def checkSpeed(self,allmons,monA,mon):
-        boosts=mon[3]
+    def checkSpeed(self,allmons,monA,boosts,mon):
 
         mulA=1
         if 'spe' in monA.boosts:
@@ -182,29 +181,30 @@ class DamageCalculator:
         for name,mon in pokemon_data[1].items():
             if(mon[2][0]==battle.opponent_active_pokemon.species):
                 for move in CurrentActive.moves.values():
-                    outS.append(DamageCalculator.damage_to_state(self.DamageCalc(CurrentActive,name,mon,move,allmons),(mon[1]/100)*self.base_stat[name_operate.base_stat_findName(mon[2][0],mon[2][1],self.base_stat)][0]))
-            else:
-                pokemon_data[1][name][3]={}
+                    outS.append(DamageCalculator.damage_to_state(self.DamageCalc(CurrentActive,name,battle.opponent_active_pokemon.boosts,move,allmons),(mon[1]/100)*self.base_stat[name_operate.base_stat_findName(mon[2][0],mon[2][1],self.base_stat)][0]))
+            # else:
+            #     pokemon_data[1][name][3]={}
         fs.append(outS)
         outS=[]
         for name,mon in pokemon_data[1].items():
             if(mon[2][0]!=battle.opponent_active_pokemon.species):
                 for move in CurrentActive.moves.values():
-                    outS.append(DamageCalculator.damage_to_state(self.DamageCalc(CurrentActive,name,mon,move,allmons),(mon[1]/100)*self.base_stat[name_operate.base_stat_findName(mon[2][0],mon[2][1],self.base_stat)][0]))
+                    outS.append(DamageCalculator.damage_to_state(self.DamageCalc(CurrentActive,name,{},move,allmons),(mon[1]/100)*self.base_stat[name_operate.base_stat_findName(mon[2][0],mon[2][1],self.base_stat)][0]))
         while(len(outS)<20):
             outS.append(1)
         fs.append(outS)
         outS=[]
+        boosts=battle.opponent_active_pokemon.boosts
         for name,mon in pokemon_data[1].items():
             if(mon[2][0]==battle.opponent_active_pokemon.species):
                 moves=self.getmoves(mon[0],name)
                 for move in moves:
-                    outS.append(DamageCalculator.damage_to_state(self.Opponent_DamageCalc(name,CurrentActive,move,allmons,mon[3]),int(CurrentActive.current_hp)))
-                outS.append(self.checkSpeed(allmons,CurrentActive,mon))
+                    outS.append(DamageCalculator.damage_to_state(self.Opponent_DamageCalc(name,CurrentActive,move,allmons,boosts),int(CurrentActive.current_hp)))
+                outS.append(self.checkSpeed(allmons,CurrentActive,boosts,mon))
                 for Pokemon in battle.available_switches:
                     for move in moves:
-                        outS.append(DamageCalculator.damage_to_state(self.Opponent_DamageCalc(name,Pokemon,move,allmons,mon[3]),int(Pokemon.current_hp)))
-                    outS.append(self.checkSpeed(allmons,Pokemon,mon))
+                        outS.append(DamageCalculator.damage_to_state(self.Opponent_DamageCalc(name,Pokemon,move,allmons,boosts),int(Pokemon.current_hp)))
+                    outS.append(self.checkSpeed(allmons,Pokemon,boosts,mon))
                 while(len(outS)<30):
                     outS.append(1)
         fs.append(outS)
