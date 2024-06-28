@@ -24,7 +24,7 @@ class name_operate:
         mon = mon.lower()
         return mon
     def searchMon(mon,pokemon_data):
-        for mons, pkmn in pokemon_data[1].items():
+        for mons, pkmn in pokemon_data.items():
             if mon == pkmn[2][0] or mon == pkmn[2][1]:
                 return mons
         return "None"

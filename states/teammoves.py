@@ -13,7 +13,7 @@ class RandomPlayerMine(Player):
         super().__init__(*args, **kwargs)
         self.all_events = []
         self.last_turn = 0
-        self.pokemon_data = [[],{}]
+        self.pokemon_data = {}
         self.logs=[]
         with open("monmap1.json", 'r') as fh:
             self.mons = json.load(fh)
@@ -23,12 +23,12 @@ class RandomPlayerMine(Player):
         move_used = ""
         isattack = False
         attacker = ""
-        self.pokemon_data[0] = [battle.active_pokemon,]
-        self.pokemon_data[0].extend(battle.available_switches)
+        # self.pokemon_data[0] = [battle.active_pokemon,]
+        # self.pokemon_data[0].extend(battle.available_switches)
         OppName=name_operate.getName(self.mons, battle.opponent_active_pokemon)
-        if OppName not in self.pokemon_data[1]:
-            self.pokemon_data[1][OppName] = [{}, battle.opponent_active_pokemon.current_hp_fraction*100, name_operate.species(battle.opponent_active_pokemon)]
-            # print(self.pokemon_data[1][OppName])
+        if OppName not in self.pokemon_data:
+            self.pokemon_data[OppName] = [{}, battle.opponent_active_pokemon.current_hp_fraction*100, name_operate.species(battle.opponent_active_pokemon)]
+            # print(self.pokemon_data[OppName])
         move_used=""
         if battle.turn > 1:
             for event in battle.observations[battle.turn-1].events:
@@ -37,10 +37,10 @@ class RandomPlayerMine(Player):
                 #     mons=name_operate.searchMon(mon,self.pokemon_data)
                 #     if(mons=="None"):
                 #             continue
-                #     if event[3] not in self.pokemon_data[1][mons][3]:
-                #         self.pokemon_data[1][mons][3][event[3]]=int(event[4])
+                #     if event[3] not in self.pokemon_data[mons][3]:
+                #         self.pokemon_data[mons][3][event[3]]=int(event[4])
                 #     else:
-                #         self.pokemon_data[1][mons][3][event[3]]+=int(event[4])
+                #         self.pokemon_data[mons][3][event[3]]+=int(event[4])
                 if (event[1] == "move") and (event[2].split(':')[0] == "p2a"):  # Check if it's a move by the opponent
                     move_used = event[3]  # Extract the move used
                     mon=name_operate.convertName(event[2].split())
@@ -55,13 +55,13 @@ class RandomPlayerMine(Player):
                         if(mons=="None"):
                             continue
                         if len(event[3].split('/')) == 1:
-                            self.pokemon_data[1][mons][1] = int(event[3].split()[0])
+                            self.pokemon_data[mons][1] = int(event[3].split()[0])
                         else:
-                            self.pokemon_data[1][mons][1] = int(event[3].split('/')[0])
+                            self.pokemon_data[mons][1] = int(event[3].split('/')[0])
                         break
-        if move_used != "" and attacker in self.pokemon_data[1]:
-                self.pokemon_data[1][attacker][0][name_operate.operation(move_used)] = isattack
-        # newlog = copy.deepcopy(self.pokemon_data[1])
+        if move_used != "" and attacker in self.pokemon_data:
+                self.pokemon_data[attacker][0][name_operate.operation(move_used)] = isattack
+        # newlog = copy.deepcopy(self.pokemon_data)
         # self.logs.append([battle.turn-1, newlog])
     def choose_move(self, battle):
         # print(battle.turn)
