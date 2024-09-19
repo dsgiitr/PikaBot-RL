@@ -14,19 +14,6 @@ import torch.nn.utils as utils
 import gymnasium
 from gymnasium.spaces import Space, Box
 
-class NormalizedActions(gymnasium.ActionWrapper):
-
-    def _action(self, action):
-        action = (action + 1) / 2  # [-1, 1] => [0, 1]
-        action *= (self.action_space.high - self.action_space.low)
-        action += self.action_space.low
-        return action
-
-    def _reverse_action(self, action):
-        action -= self.action_space.low
-        action /= (self.action_space.high - self.action_space.low)
-        action = action * 2 - 1
-        return action
 import sys
 import math
 import numpy
@@ -269,7 +256,7 @@ class ReinforcePlayer(Player):
 
     def choose_move(self, battle):
         self.current_battle = battle
-        print(f"Turn {self.current_battle.turn}")
+        #print(f"Turn {self.current_battle.turn}")
         if self.state is not None:
             # observe R, S'
             self.reward = self.calc_reward(battle)
@@ -386,7 +373,7 @@ class ReinforcePlayer(Player):
     def _battle_finished_callback(self, battle):
         self.num_battles += 1
         self.agent.update_parameters(self.rewards, self.log_probs, self.entropies, 0.95)
-
+        print(1 if self.current_battle.won else 0,end="")
         self.entropies = []
         self.log_probs = []
         self.rewards = []
