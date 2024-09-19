@@ -11,23 +11,29 @@ submitDate: June 27, 2024
 github: https://github.com/dsgiitr/PikaBot-RL
 ---
 
-## DRL Agents for Pokémon Showdown
+**Pokemon** is one of the most famous media franchises, spanning across different mediums such as video games, anime, movies, and manga for over 25 years. The Pokemon video games are adventure-based, turn-based strategy games where battles take place between Pokemon trainers. In each turn, players choose between four moves or maneuver their Pokemon while keeping track of the most optimal moves and strategies to win. This formula has remained mostly unchanged since the beginning of the franchise.
 
-Implementation of semi-Rainbow DQN, PPO, and REINFORCE to play the game Pokémon Showdown using PyTorch.
+The idea for this project was to build a bot that can learn to play Pokemon, specifically to battle other trainers. The bot would learn the different mechanics of the game, from choosing the optimal moves each turn to making long-term strategies to win matches.
 
-### Project Description
-The action space in our implementation has 13 possible actions:
-- **4 Moves**: Choose one of the four available moves for the current Pokémon.
-- **5 Switches**: Switch to one of the five other Pokémon in your team.
-- **4 Terastalized Moves**: Choose one of the four terastalized moves.
+The easiest platform to develop such a bot is **Pokemon Showdown**, an online platform that is lightweight, free to play, and very accessible for this purpose. Previous work has also been done on similar projects, specifically with the **Poke-env** environment, which provides easy access to all the data needed, eliminating much of the technical implementation required for a classic Pokemon game.
 
-The state vector has a size of 54, which includes:
-- **Expected Damage**: The expected damage of each move of the current Pokémon on each of the opposing Pokémon.
-- **HP**: The hit points (HP) of all Pokémon displayed as a fraction.
+## Motivations for the Project
 
-We used `poke-env` to locally host a Pokémon Showdown server and connect the RL agents to it. The expected damages are calculated at each time step by integrating the Smogon damage calculator into `poke-env`.
+The goal is to build a bot for the online game **Pokemon Showdown** using reinforcement learning methods such as:
 
-We implemented the following three methods:
-1. **Semi-Rainbow DQN**: A simpler variant of the Rainbow DQN algorithm combining several DQN improvements.
-2. **PPO (Proximal Policy Optimization)**: A modern version of policy gradient method on an actor-critic network.
-3. **REINFORCE**: A simpler monte-carlo version of policy gradient method.
+1. DDQN
+2. PPO
+3. Reinforce
+
+The bot would be hosted on the online **Pokemon Showdown** server, allowing players to battle against it with the help of **Poke-env**.
+
+## Methods Used
+
+### 1)Reinforce
+Reinforce is a **policy gradient** method that directly optimizes the agent's policy through trial and error by adjusting action probabilities based on rewards. It relies solely on the return from the environment to update the policy, without the need for a value function. While simple, it can be slow and less stable due to high variance in the updates, especially in complex environments with delayed rewards.
+
+### 2)Proximal Policy Optimization
+Proximal Policy Optimization (PPO) is a **policy gradient** method that improves on REINFORCE by using a **clipped objective** to prevent large, destabilizing policy updates. Unlike REINFORCE, PPO often pairs with an **Actor-Critic** architecture, where the critic estimates the value function to stabilize learning. Its stability and efficiency make it a more robust choice, especially for continuous and large-scale tasks.
+
+### 3)DDQN
+Double Deep Q-Network (DDQN) is a **value-based** method that refines the original DQN by separating action selection and evaluation to avoid overestimating Q-values. Unlike PPO and REINFORCE, which focus on learning a policy, DDQN learns the value of state-action pairs and uses these values to guide decision-making. This method is particularly effective in environments where learning precise action values is crucial for long-term success.
