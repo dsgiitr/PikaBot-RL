@@ -1,16 +1,3 @@
----
-title: "Pokemon Showdown RL Bot"
-type: work
-date: 2024-12-07T23:40:49+00:00
-description: "Pokémon Showdown RL Bot"
-caption: "This project focuses on using different Deep Reinforcement Learning methods to make a bot for playing the game Pokémon Showdown."
-image: images/work/pokemon_showdown.jpeg
-author: Barath Chandran, Pranjal Gautam
-tags: ["Reinforcement Learning", "PyTorch"]
-submitDate: June 27, 2024
-github: https://github.com/dsgiitr/PikaBot-RL
----
-
 **Pokemon** is one of the most famous media franchises, spanning across different mediums such as video games, anime, movies, and manga for over 25 years. The Pokemon video games are adventure-based, turn-based strategy games where battles take place between Pokemon trainers. In each turn, players choose between four moves or maneuver their Pokemon while keeping track of the most optimal moves and strategies to win. This formula has remained mostly unchanged since the beginning of the franchise.
 
 The idea for this project was to build a bot that can learn to play Pokemon, specifically to battle other trainers. The bot would learn the different mechanics of the game, from choosing the optimal moves each turn to making long-term strategies to win matches.
