@@ -69,11 +69,11 @@ To battle the bot, follow these steps:
    - Create these accounts at [Pokémon Showdown](https://play.pokemonshowdown.com).
 
 2. **Prepare the Account Information**:
-   - Create a file named `accounts.txt` in the same directory as your `PPO.py` script.
+   - Create a file named `accounts.txt` in the same directory as your `PPO2.py` script.
    - This file should contain the username and password of the account you will use to host the bot.
 
 3. **Run the PPO Script**:
-   - Ensure the `PPO.py` script, model weights file, and `accounts.txt` are all in the same folder.
+   - Ensure the `PPO2.py` script, model weights file, and `accounts.txt` are all in the same folder.
    - Execute the script with the following command:
 
      ```bash
