@@ -4,6 +4,7 @@ The idea for this project was to build a bot that can learn to play Pokemon, spe
 
 The easiest platform to develop such a bot is **Pokemon Showdown**, an online platform that is lightweight, free to play, and very accessible for this purpose. Previous work has also been done on similar projects, specifically with the **Poke-env** environment, which provides easy access to all the data needed, eliminating much of the technical implementation required for a classic Pokemon game.
 
+![Alt text](https://forums.pokecharms.com/files/maxresdefault-jpg.555465/)
 
 ## Motivations for the Project
 
@@ -25,6 +26,9 @@ Proximal Policy Optimization (PPO) is a **policy gradient** method that improves
 
 ### 3)DDQN
 Double Deep Q-Network (DDQN) is a **value-based** method that refines the original DQN by separating action selection and evaluation to avoid overestimating Q-values. Unlike PPO and REINFORCE, which focus on learning a policy, DDQN learns the value of state-action pairs and uses these values to guide decision-making. This method is particularly effective in environments where learning precise action values is crucial for long-term success.
+
+
+
 ## Installation Instructions
 
 1. **Ensure Python 3.8 or later and torch is installed** on your system.
