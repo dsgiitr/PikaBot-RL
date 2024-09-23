@@ -40,16 +40,16 @@ The Actor-Critic method combines two networks: the **actor**, which selects acti
 
 #### Critic Network
 
-- **Input Layer:** Same as the actor network, takes in the state (`state_dim` features).
+- **Input Layer:** Same as the actor-network, takes in the state (`state_dim` features).
 - **1st Hidden Layer:** Fully connected layer with 64 units and Tanh activation.
 - **2nd Hidden Layer:** Fully connected layer with 128 units and Tanh activation.
 - **3rd Hidden Layer:** Another fully connected layer with 128 units and Tanh activation.
 - **Output Layer:** A single unit (scalar output), representing the estimated value of the input state (used for value prediction).
 
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github.com/whitewhistle/PikaBot-RLk/blob/main/Screenshot%202024-09-23%20190400.png" alt="Alt text" />
-</div>
+</p>
 
 ## State and Action Spaces
 
