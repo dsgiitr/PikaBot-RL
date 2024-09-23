@@ -31,33 +31,7 @@ Double Deep Q-Network (DDQN) is a **value-based** method that refines the origin
 2. **Install the required Python dependencies** using pip:
 
     ```bash
-    pip install poke-env
-    ```
-
-3. **Install Node.js**: Make sure Node.js v10 or later is installed on your system.
-
-4. **Clone the Pokémon Showdown Repository**:
-
-    ```bash
-    git clone https://github.com/smogon/pokemon-showdown.git
-    ```
-
-5. **Navigate to the Repository Directory**:
-
-    ```bash
-    cd pokemon-showdown
-    ```
-
-6. **Install Dependencies**:
-
-    ```bash
-    npm install
-    ```
-
-7. **Copy the Configuration File**:
-
-    ```bash
-    cp config/config-example.js config/config.js
+    pip install -r requirements.txt
     ```
 
 ## Running the Code for battle
